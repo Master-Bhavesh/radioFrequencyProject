@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T09:17:44.398Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="TyNezrBDVqULxNxtdJq8" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-12T09:22:34.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="hh_AWB2K5grHsZGzld5s" version="13.5.8" type="github">
   <diagram id="5vKURd9wYb0xdm8aFSZI" name="Page-1">
     <mxGraphModel dx="2013" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,7 +76,7 @@
         <mxCell id="NfMMGQNs9Yz0OoEFC2OV-14" value="Sensor Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="-10" y="170" width="80" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-15" value="Response" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-15" value="Allow User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NfMMGQNs9Yz0OoEFC2OV-22" value="Create Database" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -100,10 +100,19 @@
           <mxGeometry x="310" y="80" width="250" height="90" as="geometry" />
         </mxCell>
         <mxCell id="NfMMGQNs9Yz0OoEFC2OV-35" value="Send User Details" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="230" width="110" height="20" as="geometry" />
+          <mxGeometry x="680" y="270" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NfMMGQNs9Yz0OoEFC2OV-36" value="Allow User Login" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="845" y="230" width="110" height="20" as="geometry" />
+          <mxGeometry x="840" y="170" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-51" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Input:&lt;br&gt;1. RFID Scanner&lt;br&gt;2. Data Entry&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="560" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-52" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Output:&lt;br&gt;1. Scan user data&lt;br&gt;2. Allow data entry&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="560" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-53" value="&lt;font style=&quot;font-size: 24px&quot;&gt;Attendance System using RFID Sensor for avoiding physical contact in current cover situation&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="-75" y="460" width="1020" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
