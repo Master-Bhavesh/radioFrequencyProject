@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-12T09:22:34.426Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="hh_AWB2K5grHsZGzld5s" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-12T09:22:57.322Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.5 Safari/605.1.15" etag="FZ7AACAK4vAtRbxacsBP" version="13.5.8" type="github">
   <diagram id="5vKURd9wYb0xdm8aFSZI" name="Page-1">
     <mxGraphModel dx="2013" dy="560" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,8 +73,8 @@
         <mxCell id="NfMMGQNs9Yz0OoEFC2OV-11" value="2&lt;br&gt;Validate User" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="760" y="70" width="90" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-14" value="Sensor Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="-10" y="170" width="80" height="20" as="geometry" />
+        <mxCell id="NfMMGQNs9Yz0OoEFC2OV-14" value="Sense Data" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="210" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NfMMGQNs9Yz0OoEFC2OV-15" value="Allow User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="280" width="70" height="20" as="geometry" />
